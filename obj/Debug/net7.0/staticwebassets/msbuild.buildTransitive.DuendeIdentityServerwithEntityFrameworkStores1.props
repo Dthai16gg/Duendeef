@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DuendeIdentityServerwithEntityFrameworkStores1.props" />
+</Project>
